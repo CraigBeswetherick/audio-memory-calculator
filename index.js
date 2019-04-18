@@ -74,4 +74,4 @@ const inspectAudio = () => {
     })
 }
 
-inspectAudio();
+module.export = inspectAudio;

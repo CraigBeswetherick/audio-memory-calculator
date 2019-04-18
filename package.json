@@ -1,6 +1,6 @@
 {
   "name": "audio-memory-calculator",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "tool for calculating audio memory usage",
   "main": "index.js",
   "dependencies": {
@@ -12,10 +12,6 @@
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:CraigBeswetherick/audio-memory-calculator.git"
   },
   "keywords": [
     "sound",
