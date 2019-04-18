@@ -1,2 +1,11 @@
-# audio-memory-calculator
-tool for calculating audio memory usage
+installation:
+
+npm:
+
+npm i sound-analysis -g
+
+yarn:
+
+yarn add sound-analysis -g
+
+sound-analysis --path=sound-directory-here

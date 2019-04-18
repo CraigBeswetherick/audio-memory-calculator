@@ -1,0 +1,31 @@
+{
+  "name": "audio-memory-calculator",
+  "version": "1.0.0",
+  "description": "tool for calculating audio memory usage",
+  "main": "index.js",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "find": "^0.3.0",
+    "music-metadata": "^3.5.4",
+    "yargs": "^13.2.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:CraigBeswetherick/audio-memory-calculator.git"
+  },
+  "keywords": [
+    "sound",
+    "audio",
+    "ram",
+    "memory",
+    "html5",
+    "javascript",
+    "node"
+  ],
+  "author": "grindhead",
+  "license": "ISC"
+}
