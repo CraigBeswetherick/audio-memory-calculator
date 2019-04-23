@@ -1,6 +1,6 @@
 {
   "name": "audio-memory-calculator",
-  "version": "1.0.6",
+  "version": "1.0.8",
   "description": "tool to analyze audio memory usage when decompressed",
   "main": "index.js",
   "scripts": {

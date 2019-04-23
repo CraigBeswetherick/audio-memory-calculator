@@ -2,10 +2,10 @@ installation:
 
 npm:
 
-npm i sound-analysis -g
+npm i audio-memory-calculator -g
 
 yarn:
 
-yarn add sound-analysis -g
+yarn add audio-memory-calculator -g
 
 audio-memory-calculator --path=sound-directory-here
