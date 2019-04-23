@@ -1,8 +1,10 @@
-const mm = require('music-metadata');
-const find = require('find');
-const argv = require('yargs').argv;
-const fs = require('fs');
-const chalk = require('chalk');
+#!/usr/bin/env node
+
+const mm = require("music-metadata");
+const find = require("find");
+const argv = require("yargs").argv;
+const fs = require("fs");
+const chalk = require("chalk");
 
 const WARNING_THRESHOLD = 50; //mb
 

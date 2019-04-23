@@ -1,17 +1,23 @@
 {
   "name": "audio-memory-calculator",
-  "version": "1.0.2",
-  "description": "tool for calculating audio memory usage",
+  "version": "1.0.6",
+  "description": "tool to analyze audio memory usage when decompressed",
   "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "dependencies": {
     "chalk": "^2.4.2",
     "find": "^0.3.0",
     "music-metadata": "^3.5.4",
     "yargs": "^13.2.2"
   },
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CraigBeswetherick/audio-memory-calculator.git"
+  },
+  "bin": {
+    "audio-memory-calculator": "index.js"
   },
   "keywords": [
     "sound",
@@ -23,5 +29,9 @@
     "node"
   ],
   "author": "grindhead",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CraigBeswetherick/audio-memory-calculator/issues"
+  },
+  "homepage": "https://github.com/CraigBeswetherick/audio-memory-calculator#readme"
 }
