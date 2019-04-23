@@ -8,4 +8,4 @@ yarn:
 
 yarn add sound-analysis -g
 
-sound-analysis --path=sound-directory-here
+audio-memory-calculator --path=sound-directory-here
